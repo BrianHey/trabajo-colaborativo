@@ -1,0 +1,10 @@
+.container{
+
+ border: 2px solid black;
+}
+.paragraph{
+    text-align: center;
+    font-size: 20px;
+    font-family: verdana;
+    font-weight: bold;
+}
